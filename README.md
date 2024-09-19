@@ -8,8 +8,8 @@
 
 ## Развернутые версии приложения
 
-- **Frontend**: [https://api.puvli.nomorepartiesco.ru/](https://api.puvli.nomorepartiesco.ru/)
-- **Backend**: [https://puvli.nomorepartiesco.ru/](https://puvli.nomorepartiesco.ru/)
+- **Frontend**: [https://puvli.nomorepartiesco.ru/](https://puvli.nomorepartiesco.ru/)
+- **Backend**: [https://api.puvli.nomorepartiesco.ru/](https://api.puvli.nomorepartiesco.ru/)
 
 ### IP-адрес сервера:
 
